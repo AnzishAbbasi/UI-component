@@ -11,3 +11,4 @@ This project contains three different Card UI components created using HTML and 
 ## Author
 Anzish Abbasi
 ## Screenshot
+![UI-component](component.png)
